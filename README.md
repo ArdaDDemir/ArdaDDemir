@@ -2,7 +2,7 @@
 
 - 🔭 Şu anda üzerinde çalıştığım [server manager](https://github.com/ArdaDDemir/server_manager)
 
-- 🌱 Şu anda öğreniyorum **Java**
+- 🌱 Şu anda öğreniyorum **C**
 
 - 💻 Tüm projelerime şu adresten ulaşabilirsiniz [https://ardademir.com.tr/](https://ardademir.com.tr/)
 
